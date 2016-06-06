@@ -1,10 +1,9 @@
 # Modding-R2-D2-HG-
-By: Kaia_6
 ======================
 
 Este es el código de la automatización de modding R2-D2.
 El tutorial de ensamble pueden encontrarlo en instructables.
-
+By: Kaia_6
 
 ###Material
 
@@ -24,7 +23,7 @@ Controlador: Arduino Micro
 - 1 Diodo 4004 o equivalente 4002,4003. etc. 
 - 1 Resistencias 1K ohm 
 
-// Iliminacion 
+// Iluminacion
 
 - Tiras led Neoixel AdaFruit 
 
